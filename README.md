@@ -180,6 +180,3 @@ The `expenses.db` file is created in the same directory as `main.py`. Make sure 
 
 ---
 
-## License
-
-MIT
